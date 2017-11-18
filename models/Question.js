@@ -1,7 +1,6 @@
 'use strict';
 
 class Question {
-  const que
   static Find(){
 
   }
