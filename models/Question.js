@@ -6,4 +6,4 @@ class Question {
   }
 }
 
-module.exports = question
+module.exports = Question
