@@ -8,4 +8,4 @@ class Icebreaker{
   }
 }
 
-module.exports = icebreaker
+module.exports = Icebreaker;
