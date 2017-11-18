@@ -1,5 +1,5 @@
 'use strict';
-
+const question =require(./Question.js)
 
 class Icebreaker{
   question(){
