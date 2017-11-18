@@ -7,4 +7,4 @@ class Icebreaker{
   }
 }
 
-module.exports = question
+module.exports = icebreaker
