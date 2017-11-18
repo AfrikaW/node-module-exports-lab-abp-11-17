@@ -2,7 +2,7 @@
 
 
 class Icebreaker{
-  const question =require(./Question.js)
+  const question =require("./Question.js")
   question(){
     Question.Find()
   }
