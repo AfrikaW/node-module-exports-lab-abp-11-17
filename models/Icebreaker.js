@@ -1,8 +1,8 @@
 'use strict';
 
-
+const Question =require ("./Question.js")
 class Icebreaker{
-  const Question =require ("./Question.js")
+  
   question(){
     Question.Find()
   }
